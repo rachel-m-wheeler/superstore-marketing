@@ -5,7 +5,7 @@
 
 ## Project Summary
 
-A hypothetical superstore is planning a year-end sale, where they will offer a gold membership to existing customers. Superstore management wants to understand which factors affect a customer's response to the membership offer, based on which customers accepted the offer in the last campaign.
+A hypothetical superstore is planning a year-end sale, where they will offer a gold membership to existing customers. Superstore management wants to understand which factors affect a customer's response to the membership offer, based on which customers accepted the offer in the last campaign. I imported the customer data into SQL and queried it, in order to unpack which customers are more likely to purchase a membership. I translated my SQL findings into a Tableau dashboard. 
 
 ## Process
 <b>Data Source:</b> <a href="https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset">Superstore Marketing Campaign Dataset</a> (Kaggle)<br>
