@@ -1,7 +1,7 @@
 # Project: Superstore Marketing Campaign
 <b>Question: Which customers are most likely to purchase a superstore membership?</b><br><br>
 <picture><img src="https://github.com/rachel-m-wheeler/data-analytics/assets/102989527/a28160bb-2c34-4535-9dcf-984dee3cca99"></picture><a href="https://public.tableau.com/app/profile/rachel.wheeler/viz/SuperstoreMarketingDashboard_16913422353990/Dashboard1"><b> Tableau Dashboard</b></a><br>
-<picture><img src="https://github.com/rachel-m-wheeler/data-analytics/assets/102989527/f33479ad-4db4-4665-9298-6814bfb83a97"></picture><a href="https://public.tableau.com/app/profile/rachel.wheeler/viz/NYRRRaceData-StoryPresentation/RunningRacesinNYC"><b> SQL</b></a><br>
+<picture><img src="https://github.com/rachel-m-wheeler/data-analytics/assets/102989527/f33479ad-4db4-4665-9298-6814bfb83a97"></picture><a href="https://github.com/rachel-m-wheeler/superstore-marketing/blob/main/Superstore%20Marketing%20SQL.sql"><b> SQL</b></a><br>
 
 ## Project Summary
 
